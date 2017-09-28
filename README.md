@@ -1,7 +1,7 @@
-# supsnap-flask-test-app 
+# hakob-flask-skeleton
 
 ## about
-the flask test app
+the flask skeleton for hakob 
 
 ## requirement
 docker and docker-compose environment
